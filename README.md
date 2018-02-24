@@ -45,3 +45,13 @@ These python files download and set wallpaper(only on windows)
 		Eg: 
 		change: "https://api.pinterest.com/v3/pidgets/boards/sayokdeymajumder1998/wallpapers/pins/" ->
 				"https://api.pinterest.com/v3/pidgets/boards/kjonson199958/dogpics/pins/"
+				
+	
+	The other two python files are to download images and repeat tasks.
+	
+	To run the files once just double click on 'start.bat'
+	
+	To start the program on windows startup make a shortcut of 'start.bat' and paste it in startup folder.
+	To open startup folder open RUN and type 'shell:startup' and hit enter then paste the shortcut.
+	
+	
